@@ -15,4 +15,8 @@ class Patient
     #Appointment.new()
   end
 
+  def appointments
+
+  end
+
 end
